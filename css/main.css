@@ -1,4 +1,3 @@
- 
 
 .input-block-level {
 display:block;
@@ -8,13 +7,8 @@ width:100%;
 box-sizing:border-box;
 min-height:50px;
 }
-
-body {
-padding-top: 50px;
-}
  
  
-
 a {
  
 -webkit-transition:300ms;
@@ -23,45 +17,17 @@ a {
 transition:300ms;
 }
 
- 
-#facebook  a{
-   position:absolute ;
-   background: url('../img/facebook.png') ;
-   background-repeat: no-repeat;
-   height: 30px;
-   width: 32px;
+.navbar-text > a {
+    color: inherit; 
+    text-decoration: none;
 }
 
-#facebook  a:hover {
-    background: url('../img/facebook1.png') no-repeat;
-}
-
-
-.dropdown-menu {
-margin-top:-1px;
-min-width:180px;
--webkit-border-radius:0;
--moz-border-radius:0;
-border-radius:0;
--webkit-box-shadow:none;
--moz-box-shadow:none;
-box-shadow:none;
-border:0;
-padding:0;
+.icon-facebook-sign:hover
+{
+  background-color:blue;
 }
  
  
-
-#recent-works {
-background:#2dcc70;
-color:#fff;
-}
-
-#recent-works .links>a {
-background:#fff;
-color:#2dcc70;
-text-shadow:none;
-}
 
 #clients {
 background:#fff;
@@ -380,30 +346,16 @@ font-size:24px;
 color:#fff;
 }
 
+#footer a:hover {
+color:#f7f7f5;
+}
 #footer #gototop:hover {
-background:#2b2b2b;
+background:#f7f7f5;
 text-decoration:none;
 }
 
 #footer .cp {
 margin-top:11px;
-}
-
-ul.social {
-list-style:none;
-display:inline-block;
-margin:10px 0 0;
-padding:0;
-}
-
-ul.social>li {
-display:inline-block;
-margin:0 5px;
-}
-
-ul.social>li>a {
-font-size:24px;
-color:#666;
 }
 
 .box-border {
