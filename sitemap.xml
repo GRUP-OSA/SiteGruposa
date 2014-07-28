@@ -8,50 +8,47 @@
 
 <url>
   <loc>http://gruposa.net/</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://gruposa.net/index.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://gruposa.net/About.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://gruposa.net/Methodology.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://gruposa.net/DevelopmentServices.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://gruposa.net/StaffingServices.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://gruposa.net/Outsourcing.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://gruposa.net/Contact.html</loc>
-  <lastmod>2014-07-23T03:34:58+00:00</lastmod>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://gruposa.net/Client.html</loc>
+  <lastmod>2014-07-26T19:48:56+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 </urlset>
