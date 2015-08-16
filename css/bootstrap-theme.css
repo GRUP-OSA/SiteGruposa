@@ -7,7 +7,11 @@
 .btn-default,
 .btn-primary,
 .btn-success,
+<<<<<<< HEAD
 .btn-infly
+=======
+.btn-info,
+>>>>>>> master
 .btn-warning,
 .btn-danger {
   text-shadow: 0 -1px 0 rgba(0, 0, 0, .2);
